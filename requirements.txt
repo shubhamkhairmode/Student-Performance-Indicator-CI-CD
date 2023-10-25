@@ -5,4 +5,9 @@ python-dotenv
 mysql-connector-python
 dataclasses
 scikit-learn
+catboost
+xgboost
+Flask
+dill
+mlflow==2.2.2
 #-e .
